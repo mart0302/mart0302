@@ -10,7 +10,7 @@ Actualmente desarrollo una plataforma web para compartir y difundir artículos d
 - 🔬 Me enfoco en proyectos que integran tecnología y salud.  
 - 💻 Experiencia en desarrollo frontend con HTML, CSS y JavaScript.  
 - ⚙️ Trabajo con backend usando Node.js y bases de datos para gestión de contenido.  
-- 📚 Me encanta la investigación y la divulgación científica aplicada a la enfermería.  
+- 📚 Me encanta la investigación y la divulgación científica.  
 
 ---
 
