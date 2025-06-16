@@ -1,7 +1,7 @@
 # ¡Hola! 👋
 
 Soy desarrollador apasionado por crear soluciones tecnológicas para el área de la salud, especialmente en enfermería.  
-Actualmente desarrollo una plataforma web para compartir y difundir artículos de investigación en enfermería, con el objetivo de acercar el conocimiento científico a profesionales y estudiantes.
+Actualmente desarrollo artículos de investigación, con el objetivo de acercar el conocimiento científico a profesionales y estudiantes.
 
 ---
 
