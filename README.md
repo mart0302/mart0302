@@ -1,20 +1,20 @@
-# 👋 ¡Hola! Soy Desarrollador Web & Móvil
+# ¡Hola! Soy Desarrollador Web & Móvil
 
 Soy un desarrollador apasionado por crear soluciones tecnológicas que mejoren la vida de las personas y optimicen procesos, tanto en el sector salud como en comercio y educación.  
 Tengo experiencia en el desarrollo de aplicaciones web y móviles, así como en la redacción de contenido científico y técnico.
 
 ---
 
-## 💼 Sobre mí
+## Sobre mí
 
-- 🧩 Desarrollo aplicaciones web completas, desde el frontend hasta el backend.
-- 📱 Trabajo en apps móviles multiplataforma usando Flutter y Dart.
-- 🧠 Tengo experiencia en proyectos vinculados al área de la salud, comercio electrónico y soluciones educativas.
-- 📄 Participo en proyectos de investigación, contribuyendo con artículos y recursos de divulgación.
+-  Desarrollo aplicaciones web completas, desde el frontend hasta el backend.
+-  Trabajo en apps móviles multiplataforma usando Flutter y Dart.
+-  Tengo experiencia en proyectos vinculados al área de la salud, comercio electrónico y soluciones educativas.
+-  Participo en proyectos de investigación, contribuyendo con artículos y recursos de divulgación.
 
 ---
 
-## 🛠 Tecnologías y herramientas
+##  Tecnologías y herramientas
 
 **Lenguajes:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
@@ -32,7 +32,7 @@ Tengo experiencia en el desarrollo de aplicaciones web y móviles, así como en 
 
 ---
 
-## 🔎 Intereses actuales
+##  Intereses actuales
 
 - Desarrollo de aplicaciones móviles funcionales e intuitivas.
 - Automatización de procesos administrativos y clínicos.
@@ -41,7 +41,7 @@ Tengo experiencia en el desarrollo de aplicaciones web y móviles, así como en 
 
 ---
 
-## 🤝 ¿Trabajamos juntos?
+##  ¿Trabajamos juntos?
 
 Estoy abierto a colaboraciones en proyectos innovadores, freelance o de largo plazo. Si compartimos intereses o tienes una idea en mente, ¡conversemos!
 
