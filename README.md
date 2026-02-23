@@ -1,4 +1,4 @@
-# ¡Hola! Soy Desarrollador Web & Móvil
+# Martin Alejandro Ojeda Jiménez
 
 Soy un desarrollador apasionado por crear soluciones tecnológicas que mejoren la vida de las personas y optimicen procesos, tanto en el sector salud como en comercio y educación.  
 Tengo experiencia en el desarrollo de aplicaciones web y móviles, así como en la redacción de contenido científico y técnico.
@@ -38,11 +38,5 @@ Tengo experiencia en el desarrollo de aplicaciones web y móviles, así como en 
 - Automatización de procesos administrativos y clínicos.
 - Creación de soluciones web orientadas a la experiencia del usuario.
 - Integración de tecnología en proyectos sociales, educativos y comerciales.
-
----
-
-##  ¿Trabajamos juntos?
-
-Estoy abierto a colaboraciones en proyectos innovadores, freelance o de largo plazo. Si compartimos intereses o tienes una idea en mente, ¡conversemos!
 
 ---
