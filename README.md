@@ -9,7 +9,7 @@ Tengo experiencia en el desarrollo de aplicaciones web y móviles, así como en 
 
 -  Desarrollo aplicaciones web completas, desde el frontend hasta el backend.
 -  Trabajo en apps móviles multiplataforma usando Flutter y Dart.
--  Tengo experiencia en proyectos vinculados al área de la salud, comercio electrónico y soluciones educativas.
+-  Tengo experiencia en proyectos vinculados al área de la salud y comercio electrónico.
 -  Participo en proyectos de investigación, contribuyendo con artículos y recursos de divulgación.
 
 ---
