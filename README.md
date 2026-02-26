@@ -31,12 +31,3 @@ Tengo experiencia en el desarrollo de aplicaciones web y móviles, así como en 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
-
-##  Intereses actuales
-
-- Desarrollo de aplicaciones móviles funcionales e intuitivas.
-- Automatización de procesos administrativos y clínicos.
-- Creación de soluciones web orientadas a la experiencia del usuario.
-- Integración de tecnología en proyectos sociales, educativos y comerciales.
-
----
