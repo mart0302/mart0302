@@ -3,7 +3,7 @@
 Soy un desarrollador apasionado por crear soluciones tecnológicas que mejoren la vida de las personas y optimicen procesos, tanto en el sector salud como en comercio y educación.  
 Tengo experiencia en el desarrollo de aplicaciones web y móviles, así como en la redacción de contenido científico y técnico.
 
----
+----
 
 ## Sobre mí
 
@@ -12,7 +12,7 @@ Tengo experiencia en el desarrollo de aplicaciones web y móviles, así como en 
 -  Tengo experiencia en proyectos vinculados al área de la salud y comercio electrónico.
 -  Participo en proyectos de investigación, contribuyendo con artículos y recursos de divulgación.
 
----
+----
 
 ##  Tecnologías y herramientas
 
@@ -30,4 +30,4 @@ Tengo experiencia en el desarrollo de aplicaciones web y móviles, así como en 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
----
+----
