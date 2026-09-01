@@ -3,7 +3,7 @@
 Soy un desarrollador apasionado por crear soluciones tecnológicas que mejoren la vida de las personas y optimicen procesos, tanto en el sector salud como en comercio y educación.  
 Tengo experiencia en el desarrollo de aplicaciones web y móviles, así como en la redacción de contenido científico y técnico.
 
---------
+---------
 
 ## Sobre mí
 
